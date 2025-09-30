@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
   <diagram name="第 1 页" id="biOGITPFDWjBX9YeoI5n">
-    <mxGraphModel dx="1418" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,11 +137,11 @@
         <mxCell id="Vp45k9NP6pyEfOasYFcw-4" value="1. 一个抠图的工具网站：koukoutu。抠图前后示例：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="31.77" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vp45k9NP6pyEfOasYFcw-5" value="review：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1.7699999999999996" width="70" height="30" as="geometry" />
+        <mxCell id="Vp45k9NP6pyEfOasYFcw-5" value="review （处理后删除）：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-4.440892098500626e-16" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vp45k9NP6pyEfOasYFcw-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-7.75" width="470" height="337.75" as="geometry" />
+          <mxGeometry x="1138" y="-9.370000000000005" width="470" height="337.75" as="geometry" />
         </mxCell>
         <mxCell id="Vp45k9NP6pyEfOasYFcw-7" value="2.&amp;nbsp; 一般图中的东西都主要用图标表示，例如：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="160" width="270" height="30" as="geometry" />
