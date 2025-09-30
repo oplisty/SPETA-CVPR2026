@@ -135,7 +135,13 @@
           <mxGeometry x="1220" y="76.14999999999998" width="79" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Vp45k9NP6pyEfOasYFcw-4" value="抠图的工具网站：koukoutu。抠图前后示例：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="8" width="260" height="30" as="geometry" />
+          <mxGeometry x="1160" y="31.77" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp45k9NP6pyEfOasYFcw-5" value="review：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1.7699999999999996" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vp45k9NP6pyEfOasYFcw-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" width="280" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
