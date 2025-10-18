@@ -39,6 +39,8 @@ asset_list=["001_bottle","002_bowl","003_plate","004_fluted-block", "005_french-
     "111_callbell", "112_tea-box", "113_coffee-box", "114_bottle", "115_perfume",
     "116_keyboard", "117_whiteboard-eraser", "118_tooth-paste", "119_mini-chalkboard", "120_plant"
 ]
+
+
 url_list = ["https://robotwin-platform.github.io/doc/objects/{asset}.html"for asset in asset_list]
 loaders = [WebBaseLoader(url)for url in url_list]
 docs = [loader.load() for loader in loaders]
@@ -57,7 +59,7 @@ retriever = vectorstore.as_retriever()
 prompt = hub.pull("rlm/rag-prompt")
 
 # 7. 定义LLM
-llm = ChatOpenAI(model_name="gpt-3.5-turbo")
+llm = ChatOpenAI(model_name="gpt")
 
 # 8. 组装完整的RAG流水线
 rag_chain = (
