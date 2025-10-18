@@ -1,0 +1,17 @@
+{"task_1": {
+    "task_name": "rank block by size",
+    "task_description": "There are three blocks on the table...",
+    "manipulation_tool": {
+      "self.block1": {
+        "name": "box",
+        "description": "The largest block that should be placed on the left side.",
+        "modelname": "sapien-block1"
+      },
+      "self.block2": {
+        "name": "box",
+        "description": "The middle block that should be placed in the middle.",
+        "modelname": "sapien-block1"
+      }
+    }
+}
+}
