@@ -1,7 +1,7 @@
 from openai import OpenAI
 
-kimi_api = "Your key"
-openai_api = "Your key"
+kimi_api = "sk-e0db36533c5c49adbced5abb33639a40"
+openai_api = "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"
 deep_seek_api = "Your key"
 
 # Configure the API and key (using DeepSeek as an example)

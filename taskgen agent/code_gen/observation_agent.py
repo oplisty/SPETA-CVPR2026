@@ -41,7 +41,7 @@ def observe_task_execution(episode_id, task_name, task_info, problematic_code=No
         task_dir = os.path.join(task_dir, generate_dir_name)
     
     print(f"Looking for task images in: {os.path.abspath(task_dir)}")
-    
+   
     # Check if task directory exists
     if not os.path.exists(task_dir):
         return f"Error: Image directory not found at {task_dir}"

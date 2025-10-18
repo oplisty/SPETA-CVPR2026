@@ -3,3 +3,17 @@ langchain-community
 langchain-openai 
 beautifulsoup4 
 chromadb
+openai
+base64
+os
+glob
+yaml
+sys
+importlib
+argparse
+json
+pdb
+sapien
+traceback
+time
+inspect
