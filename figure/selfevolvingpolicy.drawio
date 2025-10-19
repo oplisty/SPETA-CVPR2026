@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram name="第 1 页" id="zlO3voZeRq3kJKj6xWIf">
-    <mxGraphModel dx="1369" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,8 +231,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAqbbZlpSLL45AZ98s-m-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font&gt;Review Area&lt;font&gt;（处理完毕后删除）&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;(1) CVPR 是双栏，图可以是单栏的也可以是双栏的；&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;单栏的图应该比较扁，双栏的图应该比较瘦；&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;画的时候先确定这个图是单栏图还是双栏图，取决于图的信息量等&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;(2) 画差不多可以先放overleaf里面看看，图中的元素，包括文字图标等，&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;应该都不小于论文的字符，不至于太小可读性差&lt;/font&gt;&lt;/div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;(3) 可以尝试一定程度统一论文图片中的图标风格；例如都是淡色，细黑边框&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aAqbbZlpSLL45AZ98s-m-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font&gt;Review Area&lt;font&gt;（处理完毕后删除）&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;(1) CVPR 是双栏，图可以是单栏的也可以是双栏的；&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;单栏的图应该比较扁，双栏的图应该比较瘦；&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;画的时候先确定这个图是单栏图还是双栏图，取决于图的信息量等&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;(2) 画差不多可以先放overleaf里面看看，图中的元素，包括文字图标等，&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;应该都不小于论文的字符，不至于太小可读性差&lt;/font&gt;&lt;/div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font&gt;(3) 可以尝试一定程度统一论文图片中的图标风格；例如都是淡色，细黑边框&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="58.25" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_p0VS7zSsaH5aMuJRNS-1" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 100px; color: light-dark(rgb(109, 95, 95), rgb(0, 105, 0));&quot;&gt;&lt;i style=&quot;&quot;&gt;SPETA&lt;/i&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270.00000000000006" y="246.36" width="350" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
